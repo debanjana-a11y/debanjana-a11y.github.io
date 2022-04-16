@@ -1,0 +1,16 @@
+h1 {
+    color: rgb(64, 130, 216);
+    font-size: 80px;
+    position: absolute;
+    padding: 90px;
+    font-style: italic;
+}
+
+.social-media_link {
+    position: relative;
+    top: 250px;
+    left: 300px;
+}
+.social-media_link img{
+    width: 50px;
+}
