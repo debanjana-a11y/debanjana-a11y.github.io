@@ -55,6 +55,11 @@
 
 @media (max-width: 400px) {
     .left_side h1 {
+        padding-left: 10%;
+        padding-top: 0%;
         font-size: 200%;
+    }
+    .social-media {
+        padding-left: 20%;
     }
 }
